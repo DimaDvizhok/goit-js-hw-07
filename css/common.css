@@ -62,3 +62,15 @@ body {
 .item ul li:not(:last-child) {
   margin-bottom: 8px;
 }
+
+/* ====================================task-2==================================================== */
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 48px 24px;
+}
+.img-item {
+  width: 360px;
+  height: 300px;
+}
