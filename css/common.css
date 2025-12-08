@@ -116,6 +116,7 @@ body {
   line-height: 150%;
   letter-spacing: 0.04em;
   color: #fff;
+  border: none;
 }
 .login-form button:hover {
   background-color: #6c8cff;
