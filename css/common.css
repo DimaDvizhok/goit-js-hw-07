@@ -157,3 +157,6 @@ body {
   letter-spacing: 0.04em;
   color: #fff;
 }
+.widget button:hover {
+  background-color: #6c8cff;
+}
